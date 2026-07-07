@@ -1,32 +1,4 @@
-<h1 align="center"><b>тнє нєℓℓвσт</b></h1>
 
-<p align="center"><img src="https://te.legra.ph/file/d64669dd01c40923f1da4.jpg" alt="The HellBot"></p>
-
-<h2 align="center">🚀 Telegram Bot on Steroids!</h3>
-
-<h3 align="center">
-    Packed with the latest commands, limitless features, etc. </br>
-    Unleash the ultimate power of customization and automation like never before!
-</h3>
-
----
-
-![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Hellbot?style=social)
-
-![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=social&logo=github)
-
-![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-[![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://the-hellbot.gitbook.io/)
-
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://telegram.dog/hellbot_chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://telegram.dog/its_hellbot)
-
-[![Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
-[![Views](https://img.shields.io/youtube/views/leMyoT-qDH4?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/leMyoT-qDH4)
-
----
 
 ## Deploying HellBot on Heroku
 
@@ -139,7 +111,7 @@ Should you require assistance, kindly engage with our support group for communit
 
 > Thank you for choosing our bot and for your understanding and adherence.
 
-~ Team HellBot ❤️
+~ Team  ❤️
 
 ---
 
